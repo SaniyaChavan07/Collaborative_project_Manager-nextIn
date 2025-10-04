@@ -1,0 +1,48 @@
+{
+  "columns": {
+    "backlog": {
+      "id": "backlog",
+      "title": "Backlog",
+      "issueIds": [
+        "d475c147-6d40-4207-9234-e5bd9287fe2c"
+      ]
+    },
+    "todo": {
+      "id": "todo",
+      "title": "To Do",
+      "issueIds": []
+    },
+    "inprogress": {
+      "id": "inprogress",
+      "title": "In Progress",
+      "issueIds": []
+    },
+    "review": {
+      "id": "review",
+      "title": "In Review",
+      "issueIds": []
+    },
+    "done": {
+      "id": "done",
+      "title": "Done",
+      "issueIds": []
+    }
+  },
+  "columnOrder": [
+    "backlog",
+    "todo",
+    "inprogress",
+    "review",
+    "done"
+  ],
+  "issues": {
+    "d475c147-6d40-4207-9234-e5bd9287fe2c": {
+      "id": "d475c147-6d40-4207-9234-e5bd9287fe2c",
+      "title": "Project1",
+      "assignee": "",
+      "type": "story",
+      "priority": "low",
+      "description": "New feature added"
+    }
+  }
+}
